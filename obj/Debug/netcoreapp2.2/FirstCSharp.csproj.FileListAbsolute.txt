@@ -1,0 +1,11 @@
+/Users/cooperstrahan/Documents/Coding_Dojo/FirstCSharp/bin/Debug/netcoreapp2.2/FirstCSharp.deps.json
+/Users/cooperstrahan/Documents/Coding_Dojo/FirstCSharp/bin/Debug/netcoreapp2.2/FirstCSharp.runtimeconfig.json
+/Users/cooperstrahan/Documents/Coding_Dojo/FirstCSharp/bin/Debug/netcoreapp2.2/FirstCSharp.runtimeconfig.dev.json
+/Users/cooperstrahan/Documents/Coding_Dojo/FirstCSharp/bin/Debug/netcoreapp2.2/FirstCSharp.dll
+/Users/cooperstrahan/Documents/Coding_Dojo/FirstCSharp/bin/Debug/netcoreapp2.2/FirstCSharp.pdb
+/Users/cooperstrahan/Documents/Coding_Dojo/FirstCSharp/obj/Debug/netcoreapp2.2/FirstCSharp.csprojAssemblyReference.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/FirstCSharp/obj/Debug/netcoreapp2.2/FirstCSharp.csproj.CoreCompileInputs.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/FirstCSharp/obj/Debug/netcoreapp2.2/FirstCSharp.AssemblyInfoInputs.cache
+/Users/cooperstrahan/Documents/Coding_Dojo/FirstCSharp/obj/Debug/netcoreapp2.2/FirstCSharp.AssemblyInfo.cs
+/Users/cooperstrahan/Documents/Coding_Dojo/FirstCSharp/obj/Debug/netcoreapp2.2/FirstCSharp.dll
+/Users/cooperstrahan/Documents/Coding_Dojo/FirstCSharp/obj/Debug/netcoreapp2.2/FirstCSharp.pdb
